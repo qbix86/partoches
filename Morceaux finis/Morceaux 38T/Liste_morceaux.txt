@@ -1,0 +1,65 @@
+Ola!
+
+Vous trouverez ici la liste de tous les morceaux et leurs locations
+dans les différents répertoires!
+Pour chaque nouveau morceau, pensez à le rajouter dans la liste!
+
+
+"Courant" :
+    - Al Bint
+    - Bamoin Tibo
+    - Buntch Club
+    - Celito Lindo
+    - Cocek Srece Rumba
+    - Couleur Café
+    - Guci
+    - Havanagila
+	- Hora Andalusia
+    - Le Vent
+ 	- Mariage
+    - Marina
+    - Mesecina
+	- Moliendo Cafe
+	- Obsession
+    - Padam
+    - Partime Lover
+    - Price Tag
+    - Resiste
+    - Smoke On The Voda
+    - Suavemente
+    - Suknjica
+    - Suzette
+    - Sweet Georgia Brown
+    - Uzicko Kolo
+    - Zajkova Igra
+	
+"Les Vieux" :
+    - 3 little birds
+    - Ajde Jano
+    - Ay ay ay
+    - Boumboum
+    - Brazil
+    - Bubamara
+    - Cerezo Rosa
+	- Cumparsita
+    - Foxtrot
+    - La Paloma
+    - M. Carnaval
+    - On vous met le feu
+    - Paquito
+    - Rawhide
+	- Rumba Tziganesca
+    - TexMex
+    - Tic Tac
+    - TT
+	- Valencia
+    - Youbo
+
+"Les Tentatives" :
+    - Camisa
+    - Crni Voz
+    - Disko Partizani
+    - Gankino Oro
+    - Le poinçonneur Des Lilas
+    - Rom Quebecois
+    - Sat
